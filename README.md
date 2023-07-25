@@ -9,4 +9,4 @@ The M5 Forecasting competition hosted by Kaggle aims to predict future sales for
 For this project, I've chosen LightGBM, a popular gradient boosting framework known for its efficiency and performance in handling large-scale datasets. Leveraging its strengths, I've developed a robust forecasting model to make accurate predictions.
 
 #### How to Navigate this Repository
-In this repository, you'll find the code, data processing steps, and the model training pipeline. Additionally, I've included detailed documentation to help you understand the approach and reproduce the results.
+In this repository, I've included detailed documentation to help you understand the approach and reproduce the results. Additionally, you'll find the code, data processing steps, and the model training pipeline in the appendix. 
