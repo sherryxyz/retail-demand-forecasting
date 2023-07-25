@@ -1,6 +1,6 @@
 ## Kaggle M5 Forecasting Competition - Forecasting with LightGBM 📈
 
-Welcome to my Kaggle project for the M5 Forecasting competition! In this exciting challenge, I'm utilizing the powerful LightGBM framework to create accurate and robust forecasts.
+Welcome to my Kaggle project for the [M5 Forecasting competition](https://www.kaggle.com/competitions/m5-forecasting-accuracy)! In this exciting challenge, I'm utilizing the powerful LightGBM framework to create accurate and robust forecasts.
 
 #### About the Competition
 The M5 Forecasting competition hosted by Kaggle aims to predict future sales for various products in Walmart stores. It involves forecasting sales for thousands of products across multiple stores over time. This competition provides a fantastic opportunity to apply data science techniques to real-world retail forecasting problems.
